@@ -1,0 +1,56 @@
+body{
+    background-image:url(background.jpg);
+    background-size: 100%;
+ 
+}
+.container{
+    background-color: rgba(0,0, 0, 0.7);
+    width: 400px;
+    margin: auto;
+}
+.header{
+    text-align: center;
+    color: white;
+    font: bold;
+    
+}
+.area{
+    background-color: rgba(0,0, 0, 0.7);
+    width: 400px;
+    padding-left: 20px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.area table{
+    color: white;
+    font-size: 15px;
+}
+#name, #age, #email, #content{
+    width: 300px;
+    height: 35px;
+    margin-top: 5px;
+}
+.submit{
+    margin-left: 150px;
+    margin-bottom: 20px;
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+#message{
+    width: 300px;
+    height: 70px;
+}
+h1{
+    color: red;
+    font-family: 'Netflix Font', sans-serif;
+    font-size: 50px;
+}
+p{
+    font-size: large;
+}
+#f2{
+    color: white;
+}
